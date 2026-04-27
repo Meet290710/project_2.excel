@@ -1,17 +1,3 @@
-# 📊 Sales Analytics Dashboard in Excel
-
-<p align="center">
-  <img src="dashboard.png" alt="Excel Dashboard Preview" width="900"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Excel-Advanced-success?style=for-the-badge&logo=microsoft-excel"/>
-  <img src="https://img.shields.io/badge/Data%20Analysis-Dashboard-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Status-Completed-orange?style=for-the-badge"/>
-</p>
-
----
-
 # 🚀 Project Overview
 
 This project is an **Advanced Excel Sales Analytics Dashboard** built to perform business analysis, generate insights, and visualize data using powerful Excel functionalities.
